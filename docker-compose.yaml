@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  main:
+    container_name: academic-rmutl-ai
+    build: 
+      context: .
+    volumes:
+      - academic-rmutl-ai-db:/app/db
+
+volumes:
+academic-rmutl-ai-db: {}
