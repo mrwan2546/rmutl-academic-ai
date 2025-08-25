@@ -6,3 +6,4 @@ langchain
 langchain-community
 langchain-core
 langchain-google-genai
+beautifulsoup4
