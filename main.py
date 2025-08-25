@@ -25,8 +25,7 @@ loader_multiple_pages = WebBaseLoader(
 docs = loader_multiple_pages.load()
 
 text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size = 1024,
-    chunk_overlap = 50,
+    # chunk_size = 2048,
     length_function = len,
 )
 split_docs = text_splitter.split_documents(docs)
