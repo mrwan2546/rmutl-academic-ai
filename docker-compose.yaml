@@ -9,4 +9,4 @@ services:
       - academic-rmutl-ai-db:/app/db
 
 volumes:
-academic-rmutl-ai-db: {}
+  academic-rmutl-ai-db: {}
