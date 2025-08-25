@@ -1,5 +1,4 @@
-altair
-pandas
+google-genai
 streamlit
 asyncio
 chromadb
