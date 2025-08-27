@@ -20,6 +20,7 @@ loader_multiple_pages = WebBaseLoader(
         "https://fileregis.rmutl.ac.th/academic/docs/faq-honor.html",
         "https://fileregis.rmutl.ac.th/academic/docs/faq-leave.html",
         "https://fileregis.rmutl.ac.th/academic/docs/faq-i.html",
+        "https://www.rmutl.ac.th/curriculum/"
         # "https://entrance.rmutl.ac.th/cm/"
     ]
 )
